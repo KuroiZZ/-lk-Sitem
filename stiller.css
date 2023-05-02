@@ -1,0 +1,108 @@
+body
+{
+    background-color: black;
+    color: azure;
+}
+
+
+.Baslik
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 2vi;
+}
+
+#AnaBaslik
+{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 3vw;
+    color: deepskyblue;
+}
+
+#OzelBaslik
+{
+    padding-left: 30px;
+}
+
+#OrtaBaslik
+{
+    text-align: center;
+}
+
+
+.Paragraf
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 2px;
+    font-size: 1vi;
+    text-align: justify;
+}
+
+.Paragraf strong
+{
+    color: greenyellow;
+}
+
+
+table
+{
+    margin: 0 auto;
+}
+
+#Resim
+{
+    width: 20vi;
+    height: 20vi;
+}
+
+
+.Liste
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+    font-size: 1vi;
+    text-align: justify;
+}
+
+.SolTaraf
+{
+    width: 49%;
+    float: left;
+    display: inline;
+    margin-right: 1%;
+
+
+}
+.SagTaraf
+{
+    width: 49%;
+    float: right;
+    display: inline;
+    margin-left: 1%;
+}
+
+
+.Erisim
+{
+    display: inline-flex;
+    margin-left: 27.83%;
+}
+
+#ErisimNoktasi
+{
+    color: blue;
+    font-size: 1.8vi;
+}
+
+#ErisimNoktasi:hover
+{
+    color: hotpink;
+}
+
+
+
+
+
+
+
